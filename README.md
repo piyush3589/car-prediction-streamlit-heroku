@@ -1,1 +1,1 @@
-# car-prediction-heroku
+# car-prediction-streamlit-heroku 
